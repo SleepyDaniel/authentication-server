@@ -1,7 +1,7 @@
 # Authentication Server
-  * [x] Create accounts
+  * [ ] Create accounts
   * [ ] Login to accounts
-  * [ ] Email Verification 
+  * [x] Email Verification 
   * [ ] Password reset
   * [ ] ReCAPTCHA integration 
   * [ ] Rate limits on endpoints 
