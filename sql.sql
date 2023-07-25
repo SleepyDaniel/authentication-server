@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS users (
     `password` varchar(200) NOT NULL, 
     `verified` boolean, 
     `phone` varchar(200), 
-    `discordID` varchar(20), 
+    `discordID` varchar(20)
     
     PRIMARY KEY (`ID`) 
 );
